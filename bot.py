@@ -1,0 +1,1 @@
+print("NudgeBot is alive.")
